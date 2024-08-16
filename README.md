@@ -1,24 +1,12 @@
 # galaxy-weather
 
-## Project setup
+## descargar las librerias utilizadas
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### ejecutar el programa,ya que la api_key de la api esta 'publica'
 ```
 npm run serve
-```
 
-### Compiles and minifies for production
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
